@@ -1,0 +1,4 @@
+{
+  "port": 6502,
+  "userDatabase": "test/database/not_json_array.json"
+}

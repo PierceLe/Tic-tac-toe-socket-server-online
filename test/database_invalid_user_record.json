@@ -1,0 +1,4 @@
+{
+  "port": 6502,
+  "userDatabase": "test/database/invalid_user_record.json"
+}

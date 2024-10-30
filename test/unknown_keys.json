@@ -1,0 +1,5 @@
+{
+  "port": 6502,
+  "userDatabase": "./models/ticTacToeUsers.json",
+  "hello": "how are you"
+}
